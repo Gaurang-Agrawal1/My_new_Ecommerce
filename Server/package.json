@@ -11,7 +11,7 @@
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "keywords": [],
-  "author": "Krishna pathak, Gaurang Agrawal , Gopal Sharma",
+  "author": "Gaurang Agrawal",
   "license": "MIT",
   "dependencies": {
     "@react-icons/all-files": "^4.1.0",
