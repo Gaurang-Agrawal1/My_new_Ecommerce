@@ -6,7 +6,7 @@ Sign Up Page
 
 ```
 
-This site was built using [MERN Stack -->  Check Deployment Here ](my-new-ecommerce-drab.vercel.app/).
+This site was built using MERN Stack [Check Deployment Here ](my-new-ecommerce-drab.vercel.app/).
 
 ![Sing Up page ](https://github.com/user-attachments/assets/d1789fad-8628-488b-a676-8b60c05049db)
 
