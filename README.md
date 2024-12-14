@@ -45,7 +45,42 @@
 
 ![All categories](https://github.com/user-attachments/assets/1fe5f232-fab3-439a-8a07-b4b03086ab15)
 
+
+## About Us
+
+![About Us page](https://github.com/user-attachments/assets/abfd0bad-5687-4186-aa05-c6dbf986b2b3)
+
+## Privacy Policy
+![Privacy Policy page](https://github.com/user-attachments/assets/0e156523-12df-4672-a27a-c297f04b93eb)
+
+
+## Contact Us 
+
+![Contact Us page](https://github.com/user-attachments/assets/00742a06-9c72-4c79-85af-8b27880869c6)
+
+
+## Footer
+
+![Footer](https://github.com/user-attachments/assets/84856e72-bf23-4f01-8327-ed225a93ac36)
+
 ### ADMIN PAGES
 
+### ALL Products  Visible to Admin Only
 
+![All Product Page for admin](https://github.com/user-attachments/assets/7530a014-7abe-4d11-b427-100af24840e5)
+
+### Categoty Creation Visible to Admin Only
+
+
+![Category Creation Page for admin](https://github.com/user-attachments/assets/0ee7e687-f364-4a14-9974-3fbe2a3b5cd6)
+
+
+### Product Creation Visible to Admin Only
+
+![Product Creation Page for admin](https://github.com/user-attachments/assets/b0489ffe-f12e-4998-b439-199a089f466a)
+
+### Maintain Orders Visible to Admin Only
+
+
+![Maintain orders page Admin](https://github.com/user-attachments/assets/0c3b86eb-0ade-4163-881e-563329ec5533)
 
