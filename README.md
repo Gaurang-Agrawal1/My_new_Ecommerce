@@ -65,6 +65,9 @@ It is E-commerce website Developed using MERN Stack
 |     9| JSON Web Tokens (JWT)  |
 |     10|  bcrypt       |
 
+
+![image](https://github.com/user-attachments/assets/acf61524-98a0-4ee3-ad20-58960b453123)
+
 ## Installation
 To set up the project on your local machine, follow these steps:
 
