@@ -4,15 +4,6 @@
 ### Sign Up Page
 
 
-### This site was built using MERN Stack [Check Deployment Here ](https://my-new-ecommerce-drab.vercel.app/).
-
-
-> [!IMPORTANT]
-> Cap -Commerce do 2 Step Verification By sending Otp on your Mail
-
-
-
-
 ![Sing Up page ](https://github.com/user-attachments/assets/d1789fad-8628-488b-a676-8b60c05049db)
 
 
@@ -122,3 +113,9 @@
 
 ![Maintain orders page Admin](https://github.com/user-attachments/assets/0c3b86eb-0ade-4163-881e-563329ec5533)
 
+=============================================================================================================
+> [!IMPORTANT]
+> Cap -Commerce do 2 Step Verification By sending Otp on your Mail
+
+### This site was built using MERN Stack [Check Deployment Here ](https://my-new-ecommerce-drab.vercel.app/).
+============================================================================================================
