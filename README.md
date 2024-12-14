@@ -16,28 +16,6 @@ Sign Up Page
 |     4| Bootstrap  |
 --------------------
 
-Client
-     - node_modules
-     - public
-     - src
-       - components
-       - contect
-       - hooks
-       - pages
-       - styles
-Client
-     
-       
-Server
-     - config
-     - controllers
-     - helpers
-     - middlewares
-     - models
-     - node_modules
-     - routes
-     - server.js
-     
          
 
 </details>
