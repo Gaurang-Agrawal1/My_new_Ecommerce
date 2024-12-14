@@ -6,7 +6,17 @@
 
 ### Please [Check Deployment Here ](https://my-new-ecommerce-drab.vercel.app/).
 
+## Tech Stack Used
 
+
+| Rank | Languages , Framework & Database|
+|-----:|-----------|
+|     1| React
+|     2| Express.js    |
+|     3| Node.js       |
+|     4| MongoDB       |
+|     5| Bootstrap     |
+|     6| Tailwind Css  |
 ### Sign Up Page
 
 
