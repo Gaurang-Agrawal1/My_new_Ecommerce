@@ -19,7 +19,6 @@
 - API Endpoints
 - Project Structure
 - Screenshots
-- License
 
 ## Project Overview
 It is E-commerce website Developed using MERN Stack
@@ -31,6 +30,14 @@ It is E-commerce website Developed using MERN Stack
 ### Node.js Project with MongoDB and NodeMailer
 - Includes email confirmation functionality using NodeMailer.
 - This task demonstrates how to send confirmation emails upon user signup, providing a complete user authentication and verification workflow.
+
+### Product Details
+- user can go through differenr  products on website
+- Whenever a user go on product to view it ,  he see similar products on recommenations section
+- user can add product to cart 
+
+### payment
+- To Integrate a payment gateway API for processing transactions , used Stripe Payment Gateway.
 
 ## Features
 
@@ -47,7 +54,15 @@ It is E-commerce website Developed using MERN Stack
 - JWT token generation and validation
 - Input validation and password hashing
 
+### 3:
+- User can Browse different products
+- When view a products , get similar product suggestion
+- It is done using regular expression in express.js
+- User can add product to cart
 
+### 4:
+- User can do payment used Stripe Payment Gateway.
+- User can check the status of ordered product
 
 ## Tech Stack Used
 
