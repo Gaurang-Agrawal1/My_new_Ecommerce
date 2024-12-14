@@ -10,9 +10,13 @@ Sign Up Page
        
 | Rank | Languages |
 |-----:|-----------|
-|     1| JavaScript|
-|     2| Python    |
-|     3| SQL       |
+|     1| React|
+|     2| Node.js    |
+|     3| Express.js |
+|     4| Bootstrap  |
+--------------------
+
+
 Client
      - node_modules
      - public
@@ -22,8 +26,17 @@ Client
        - hooks
        - pages
        - styles
-       
-       
+Server
+     - config
+     - controllers
+     - helpers
+     - middlewares
+     - models
+     - node_modules
+     - routes
+     - server.js
+     
+         
 
 </details>
 This site was built using MERN Stack [Check Deployment Here ](https://my-new-ecommerce-drab.vercel.app/).
