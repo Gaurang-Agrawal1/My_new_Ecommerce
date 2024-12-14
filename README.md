@@ -5,6 +5,9 @@ E-Commerce Web Overview
 Sign Up Page
 
 ```
+
+This site was built using [MERN Stack ](https://pages.github.com/).
+
 ![Sing Up page ](https://github.com/user-attachments/assets/d1789fad-8628-488b-a676-8b60c05049db)
 
 
