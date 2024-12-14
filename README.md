@@ -16,7 +16,6 @@ Sign Up Page
 |     4| Bootstrap  |
 --------------------
 
-
 Client
      - node_modules
      - public
@@ -26,6 +25,9 @@ Client
        - hooks
        - pages
        - styles
+Client
+     
+       
 Server
      - config
      - controllers
