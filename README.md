@@ -23,6 +23,21 @@ This site was built using MERN Stack [Check Deployment Here ](https://my-new-eco
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
 
 ![Sing Up page ](https://github.com/user-attachments/assets/d1789fad-8628-488b-a676-8b60c05049db)
 
