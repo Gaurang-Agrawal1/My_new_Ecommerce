@@ -32,11 +32,11 @@ It is E-commerce website Developed using MERN Stack
 - This task demonstrates how to send confirmation emails upon user signup, providing a complete user authentication and verification workflow.
 
 ### Product Details
-- user can go through differenr  products on website
+- User can go through differenr  products on website
 - Whenever a user go on product to view it ,  he see similar products on recommenations section
-- user can add product to cart 
+- User can add product to cart 
 
-### payment
+### Payment
 - To Integrate a payment gateway API for processing transactions , used Stripe Payment Gateway.
 
 ## Features
