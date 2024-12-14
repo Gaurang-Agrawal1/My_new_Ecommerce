@@ -1,4 +1,15 @@
 # My_new_Ecommerce
+## Sign Up Page
+
+
+![Sing Up page ](https://github.com/user-attachments/assets/d1789fad-8628-488b-a676-8b60c05049db)
+
+
+## Login Page
+
+
+![Login Page](https://github.com/user-attachments/assets/df142210-7537-4024-88bd-c21ac680883f)
+
 
 ## HOME PAGE
 
