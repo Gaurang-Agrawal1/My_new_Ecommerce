@@ -45,3 +45,7 @@
 
 ![All categories](https://github.com/user-attachments/assets/1fe5f232-fab3-439a-8a07-b4b03086ab15)
 
+### ADMIN PAGES
+
+
+
