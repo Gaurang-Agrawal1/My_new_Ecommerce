@@ -17,6 +17,15 @@
 
 ![Products](https://github.com/user-attachments/assets/1471b7a6-554c-4122-96a6-cbfbda000c03)
 
+## Filter
+
+![Filter](https://github.com/user-attachments/assets/3df322c8-b291-46bc-bf03-a17b34ba544b)
+
+
+## Categories
+
+
+![All categories](https://github.com/user-attachments/assets/1fe5f232-fab3-439a-8a07-b4b03086ab15)
 
 ## Product Page 
 
@@ -35,15 +44,6 @@
 
 ![Order Tacking](https://github.com/user-attachments/assets/6c359ac4-a146-4e39-b5ab-2ca2f67f893b)
 
-## Filter
-
-![Filter](https://github.com/user-attachments/assets/3df322c8-b291-46bc-bf03-a17b34ba544b)
-
-
-## Categories
-
-
-![All categories](https://github.com/user-attachments/assets/1fe5f232-fab3-439a-8a07-b4b03086ab15)
 
 
 ## About Us
