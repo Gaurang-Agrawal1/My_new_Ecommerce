@@ -1,19 +1,6 @@
 
 # Cap - Commerce 
 
-> [!IMPORTANT]
-> Cap -Commerce do 2 Step Verification By sending Otp on your Mail
-
-### Please [Check Deployment Here ](https://my-new-ecommerce-drab.vercel.app/).
-
-
-### Sign Up Page
-## Node.js Authentication API & Task 2 - Email Confirmation
-
-- Welcome to the Node.js Authentication API and Email Confirmation 
-- a Node.js API for user authentication and a project demonstrating email confirmation with NodeMailer.
-- Below, you'll find comprehensive documentation covering both tasks, including setup instructions, features, technologies used, and more.
-
 ## Table of Contents
 - Project Overview
 - Features
@@ -28,14 +15,14 @@
 - License
 
 ## Project Overview
-This repository includes two main tasks:
+It is E-commerce website Developed using MERN Stack
 
-### Task 1 - Node.js Authentication API
+### Authentication Using Node.js API
 - A Node.js API built with Express.js for user authentication, including signup, login, and profile management.
 - It utilizes MongoDB for data storage and JWT for secure authentication.
 
-### Task 2 - Node.js Project with MongoDB and NodeMailer
-- An extension of Task 1 that includes email confirmation functionality using NodeMailer.
+### Node.js Project with MongoDB and NodeMailer
+- Includes email confirmation functionality using NodeMailer.
 - This task demonstrates how to send confirmation emails upon user signup, providing a complete user authentication and verification workflow.
 
 ## Features
@@ -53,14 +40,8 @@ This repository includes two main tasks:
 - JWT token generation and validation
 - Input validation and password hashing
 
-## Technologies Used
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-- NodeMailer
-- JSON Web Tokens (JWT)
-- bcrypt
+
+
 ## Tech Stack Used
 
 
@@ -72,6 +53,11 @@ This repository includes two main tasks:
 |     4| MongoDB       |
 |     5| Bootstrap     |
 |     6| Tailwind Css  |
+|     7| Mongoose      |
+|     8| NodeMailer    |
+|     9| JSON Web Tokens (JWT)  |
+|     10|  bcrypt       |
+
 ## Installation
 To set up the project on your local machine, follow these steps:
 
@@ -123,39 +109,8 @@ Follow these steps to configure it:
 ```bash
 npm install nodemailer
 ```
-
 - Configure NodeMailer:
 
-```js
-const nodemailer = require('nodemailer');
-
-const transporter = nodemailer.createTransport({
-  service: 'gmail',
-  auth: {
-    user: process.env.NODEMAILER_USER,
-    pass: process.env.NODEMAILER_PASS,
-  },
-});
-
-const mailOptions = {
-  from: process.env.NODEMAILER_USER,
-  to: 'user-email@example.com',
-  subject: 'Confirmation Email',
-  text: 'Your confirmation code is XYZ123',
-};
-
-transporter.sendMail(mailOptions, (error, info) => {
-  if (error) {
-    console.log(error);
-  } else {
-    console.log('Email sent: ' + info.response);
-  }
-});
-```
-
-- Trigger Email on Signup:
-
-Extend the /api/signup endpoint in Task 1 to send a confirmation email upon successful registration.
 ## Project Structure
 
 ```arduino
@@ -191,11 +146,8 @@ Cap-Commerce/
     └── README.md
 ```
 
+### Sign Up Page
 
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 ![Sing Up page ](https://github.com/user-attachments/assets/d1789fad-8628-488b-a676-8b60c05049db)
 
 
@@ -305,4 +257,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ![Maintain orders page Admin](https://github.com/user-attachments/assets/0c3b86eb-0ade-4163-881e-563329ec5533)
 
+
+> [!IMPORTANT]
+> Cap -Commerce do 2 Step Verification By sending Otp on your Mail
+
+### Please [Check Deployment Here ](https://my-new-ecommerce-drab.vercel.app/).
 
