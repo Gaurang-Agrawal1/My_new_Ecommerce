@@ -4,7 +4,7 @@
 > [!IMPORTANT]
 > Cap -Commerce do 2 Step Verification By sending Otp on your Mail
 
-### This site was built using MERN Stack [Check Deployment Here ](https://my-new-ecommerce-drab.vercel.app/).
+### Please [Check Deployment Here ](https://my-new-ecommerce-drab.vercel.app/).
 
 
 ### Sign Up Page
