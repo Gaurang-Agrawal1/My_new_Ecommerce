@@ -6,12 +6,9 @@
 
 ### This site was built using MERN Stack [Check Deployment Here ](https://my-new-ecommerce-drab.vercel.app/).
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
 
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+> Cap -Commerce do 2 Step Verification By sending Otp on your Mail
 
 
 
