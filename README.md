@@ -8,6 +8,22 @@ Sign Up Page
 
 This site was built using MERN Stack [Check Deployment Here ](https://my-new-ecommerce-drab.vercel.app/).
 
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
+
 ![Sing Up page ](https://github.com/user-attachments/assets/d1789fad-8628-488b-a676-8b60c05049db)
 
 
