@@ -23,8 +23,19 @@
 
 ![Products details](https://github.com/user-attachments/assets/6789606c-8b6a-465f-89b6-14b932776fa2)
 
+## Cart Page 
 
-# Filter
+
+
+![Cart and Payment Gateway](https://github.com/user-attachments/assets/22e8302d-d594-43a5-91e9-c047ec222c13)
+
+## Order  Tracking
+
+
+
+![Order Tacking](https://github.com/user-attachments/assets/6c359ac4-a146-4e39-b5ab-2ca2f67f893b)
+
+## Filter
 
 ![Filter](https://github.com/user-attachments/assets/3df322c8-b291-46bc-bf03-a17b34ba544b)
 
