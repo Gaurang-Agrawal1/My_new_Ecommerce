@@ -3,7 +3,7 @@
 
 
 > [!IMPORTANT]
-> Cap -Commerce do 2 Step Verification By sending Otp on your Mail
+> Cap -Commerce Do 2 Step Verification By Sending Otp on your Registered Mail ID .
 
 ### Please [Check Deployment Here ](https://my-new-ecommerce-drab.vercel.app/).
 
