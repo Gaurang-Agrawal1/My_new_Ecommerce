@@ -5,7 +5,16 @@ E-Commerce Web Overview
 Sign Up Page
 
 ```
+<details>
+<summary>My top languages</summary>
 
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| Python    |
+|     3| SQL       |
+
+</details>
 This site was built using MERN Stack [Check Deployment Here ](https://my-new-ecommerce-drab.vercel.app/).
 
 > [!NOTE]
