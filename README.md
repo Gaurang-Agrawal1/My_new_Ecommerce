@@ -1,6 +1,13 @@
 
 # Cap - Commerce 
 
+
+> [!IMPORTANT]
+> Cap -Commerce do 2 Step Verification By sending Otp on your Mail
+
+### Please [Check Deployment Here ](https://my-new-ecommerce-drab.vercel.app/).
+
+
 ## Table of Contents
 - Project Overview
 - Features
@@ -257,9 +264,4 @@ Cap-Commerce/
 
 ![Maintain orders page Admin](https://github.com/user-attachments/assets/0c3b86eb-0ade-4163-881e-563329ec5533)
 
-
-> [!IMPORTANT]
-> Cap -Commerce do 2 Step Verification By sending Otp on your Mail
-
-### Please [Check Deployment Here ](https://my-new-ecommerce-drab.vercel.app/).
 
